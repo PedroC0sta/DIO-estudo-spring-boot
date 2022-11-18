@@ -1,2 +1,2 @@
 # estudo-spring-boot
-Meu primeiro contato com spring boot e spring data jda, realizando uma conexão e query em um banco de dados mysql.
+Meu primeiro contato com spring boot e spring data jpa, realizando uma conexão e query em um banco de dados mysql.
